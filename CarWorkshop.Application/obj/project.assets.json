@@ -2,19 +2,6 @@
   "version": 3,
   "targets": {
     "net7.0": {
-      "CarWorkshop.Application/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "dependencies": {
-          "CarWorkshop.Domain": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/CarWorkshop.Application.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/CarWorkshop.Application.dll": {}
-        }
-      },
       "CarWorkshop.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -28,11 +15,6 @@
     }
   },
   "libraries": {
-    "CarWorkshop.Application/1.0.0": {
-      "type": "project",
-      "path": "../CarWorkshop.Application/CarWorkshop.Application.csproj",
-      "msbuildProject": "../CarWorkshop.Application/CarWorkshop.Application.csproj"
-    },
     "CarWorkshop.Domain/1.0.0": {
       "type": "project",
       "path": "../CarWorkshop.Domain/CarWorkshop.Domain.csproj",
@@ -41,7 +23,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "CarWorkshop.Application >= 1.0.0"
+      "CarWorkshop.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -51,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programowanie\\4.Nauka\\dotNetCoreMVC\\CarWorkshop.MVC\\CarWorkshop.MVC.csproj",
-      "projectName": "CarWorkshop.MVC",
-      "projectPath": "E:\\Programowanie\\4.Nauka\\dotNetCoreMVC\\CarWorkshop.MVC\\CarWorkshop.MVC.csproj",
+      "projectUniqueName": "E:\\Programowanie\\4.Nauka\\dotNetCoreMVC\\CarWorkshop.Application\\CarWorkshop.Application.csproj",
+      "projectName": "CarWorkshop.Application",
+      "projectPath": "E:\\Programowanie\\4.Nauka\\dotNetCoreMVC\\CarWorkshop.Application\\CarWorkshop.Application.csproj",
       "packagesPath": "C:\\Users\\X\\.nuget\\packages\\",
-      "outputPath": "E:\\Programowanie\\4.Nauka\\dotNetCoreMVC\\CarWorkshop.MVC\\obj\\",
+      "outputPath": "E:\\Programowanie\\4.Nauka\\dotNetCoreMVC\\CarWorkshop.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -70,15 +52,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "E:\\Programowanie\\4.Nauka\\dotNetCoreMVC\\CarWorkshop.Application\\CarWorkshop.Application.csproj": {
-              "projectPath": "E:\\Programowanie\\4.Nauka\\dotNetCoreMVC\\CarWorkshop.Application\\CarWorkshop.Application.csproj"
+            "E:\\Programowanie\\4.Nauka\\dotNetCoreMVC\\CarWorkshop.Domain\\CarWorkshop.Domain.csproj": {
+              "projectPath": "E:\\Programowanie\\4.Nauka\\dotNetCoreMVC\\CarWorkshop.Domain\\CarWorkshop.Domain.csproj"
             }
           }
         }
@@ -104,9 +85,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }

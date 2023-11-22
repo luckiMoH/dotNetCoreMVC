@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Programowanie\\4.Nauka\\dotNetCoreMVC\\CarWorkshop.MVC\\CarWorkshop.MVC.csproj": {}
+    "E:\\Programowanie\\4.Nauka\\dotNetCoreMVC\\CarWorkshop.Infrastructure\\CarWorkshop.Infrastructure.csproj": {}
   },
   "projects": {
     "E:\\Programowanie\\4.Nauka\\dotNetCoreMVC\\CarWorkshop.Application\\CarWorkshop.Application.csproj": {
@@ -126,14 +126,14 @@
         }
       }
     },
-    "E:\\Programowanie\\4.Nauka\\dotNetCoreMVC\\CarWorkshop.MVC\\CarWorkshop.MVC.csproj": {
+    "E:\\Programowanie\\4.Nauka\\dotNetCoreMVC\\CarWorkshop.Infrastructure\\CarWorkshop.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programowanie\\4.Nauka\\dotNetCoreMVC\\CarWorkshop.MVC\\CarWorkshop.MVC.csproj",
-        "projectName": "CarWorkshop.MVC",
-        "projectPath": "E:\\Programowanie\\4.Nauka\\dotNetCoreMVC\\CarWorkshop.MVC\\CarWorkshop.MVC.csproj",
+        "projectUniqueName": "E:\\Programowanie\\4.Nauka\\dotNetCoreMVC\\CarWorkshop.Infrastructure\\CarWorkshop.Infrastructure.csproj",
+        "projectName": "CarWorkshop.Infrastructure",
+        "projectPath": "E:\\Programowanie\\4.Nauka\\dotNetCoreMVC\\CarWorkshop.Infrastructure\\CarWorkshop.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\X\\.nuget\\packages\\",
-        "outputPath": "E:\\Programowanie\\4.Nauka\\dotNetCoreMVC\\CarWorkshop.MVC\\obj\\",
+        "outputPath": "E:\\Programowanie\\4.Nauka\\dotNetCoreMVC\\CarWorkshop.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -148,7 +148,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -182,9 +181,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
