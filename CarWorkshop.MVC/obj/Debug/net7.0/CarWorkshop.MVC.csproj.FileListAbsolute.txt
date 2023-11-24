@@ -79,3 +79,5 @@ E:\Programowanie\4.Nauka\dotNetCoreMVC\CarWorkshop.MVC\bin\Debug\net7.0\Microsof
 E:\Programowanie\4.Nauka\dotNetCoreMVC\CarWorkshop.MVC\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
 E:\Programowanie\4.Nauka\dotNetCoreMVC\CarWorkshop.MVC\bin\Debug\net7.0\Mono.TextTemplating.dll
 E:\Programowanie\4.Nauka\dotNetCoreMVC\CarWorkshop.MVC\bin\Debug\net7.0\System.CodeDom.dll
+E:\Programowanie\4.Nauka\dotNetCoreMVC\CarWorkshop.MVC\bin\Debug\net7.0\AutoMapper.dll
+E:\Programowanie\4.Nauka\dotNetCoreMVC\CarWorkshop.MVC\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
