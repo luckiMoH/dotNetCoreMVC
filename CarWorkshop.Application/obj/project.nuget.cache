@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "gzIV+74MdIQrkdeDBWw/IFIqsNUsNEZLgP1slEutgUExAbylDZm9NM9JkO1zewnjcu4f2Z+qJO7G8JnC3giMvg==",
+  "dgSpecHash": "urxF+pW4kg/LXSMejqpVyrifQ7dwKiVxSym5bsKkiiaf0GOo+VWHVI/I9VsyciLmqecQtPekvAg/fHbLvVFkwQ==",
   "success": true,
   "projectFilePath": "E:\\Programowanie\\4.Nauka\\dotNetCoreMVC\\CarWorkshop.Application\\CarWorkshop.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\X\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\X\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\X\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\X\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\X\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\X\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\X\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\X\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",

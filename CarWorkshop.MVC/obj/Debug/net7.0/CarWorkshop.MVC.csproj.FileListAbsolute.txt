@@ -81,3 +81,7 @@ E:\Programowanie\4.Nauka\dotNetCoreMVC\CarWorkshop.MVC\bin\Debug\net7.0\Mono.Tex
 E:\Programowanie\4.Nauka\dotNetCoreMVC\CarWorkshop.MVC\bin\Debug\net7.0\System.CodeDom.dll
 E:\Programowanie\4.Nauka\dotNetCoreMVC\CarWorkshop.MVC\bin\Debug\net7.0\AutoMapper.dll
 E:\Programowanie\4.Nauka\dotNetCoreMVC\CarWorkshop.MVC\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Programowanie\4.Nauka\dotNetCoreMVC\CarWorkshop.MVC\bin\Debug\net7.0\FluentValidation.dll
+E:\Programowanie\4.Nauka\dotNetCoreMVC\CarWorkshop.MVC\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+E:\Programowanie\4.Nauka\dotNetCoreMVC\CarWorkshop.MVC\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\Programowanie\4.Nauka\dotNetCoreMVC\CarWorkshop.MVC\obj\Debug\net7.0\CarWorkshop.MVC.MvcApplicationPartsAssemblyInfo.cs
