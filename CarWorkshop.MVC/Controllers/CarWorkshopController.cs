@@ -10,9 +10,16 @@ namespace CarWorkshop.MVC.Controllers
         {
             _carWorkshopService = carWorkshopService;
         }
+
+        public ActionResult Create()
+        {
+            return View();
+        }
+
         [HttpPost]
         public async Task<IActionResult> Create(Domain.Entities.CarWorkshop carWorkshop)
         {
+            carWorkshop.EncodeName();
             await _carWorkshopService.Create(carWorkshop);
             return RedirectToAction(nameof(Create)); // TODO: refactor
         }
