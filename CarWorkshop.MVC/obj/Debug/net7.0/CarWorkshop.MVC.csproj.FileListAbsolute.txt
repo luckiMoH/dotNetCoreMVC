@@ -29,3 +29,8 @@ E:\Programowanie\4.Nauka\dotNetCoreMVC\CarWorkshop.MVC\obj\Debug\net7.0\refint\C
 E:\Programowanie\4.Nauka\dotNetCoreMVC\CarWorkshop.MVC\obj\Debug\net7.0\CarWorkshop.MVC.pdb
 E:\Programowanie\4.Nauka\dotNetCoreMVC\CarWorkshop.MVC\obj\Debug\net7.0\CarWorkshop.MVC.genruntimeconfig.cache
 E:\Programowanie\4.Nauka\dotNetCoreMVC\CarWorkshop.MVC\obj\Debug\net7.0\ref\CarWorkshop.MVC.dll
+E:\Programowanie\4.Nauka\dotNetCoreMVC\CarWorkshop.MVC\bin\Debug\net7.0\CarWorkshop.Application.dll
+E:\Programowanie\4.Nauka\dotNetCoreMVC\CarWorkshop.MVC\bin\Debug\net7.0\CarWorkshop.Domain.dll
+E:\Programowanie\4.Nauka\dotNetCoreMVC\CarWorkshop.MVC\bin\Debug\net7.0\CarWorkshop.Application.pdb
+E:\Programowanie\4.Nauka\dotNetCoreMVC\CarWorkshop.MVC\bin\Debug\net7.0\CarWorkshop.Domain.pdb
+E:\Programowanie\4.Nauka\dotNetCoreMVC\CarWorkshop.MVC\obj\Debug\net7.0\CarWorkshop.MVC.csproj.CopyComplete
