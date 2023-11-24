@@ -9,12 +9,16 @@ namespace CarWorkshop.Infrastructure.Persistence
 {
     public class CarWorkshopDbContext : DbContext
     {
+        public CarWorkshopDbContext(DbContextOptions<CarWorkshopDbContext> options) :base(options)
+        {
+
+        }
         public DbSet<Domain.Entities.CarWorkshop> CarWorkshops { get; set; } //zdefiniowanie wlasciwosci, ktora bedzie reprezentacja tabeli jaka zostanie utworzona w naszej bazie danych
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            optionsBuilder.UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=CarWorkshopDb;Trusted_Connection=True;"); //konfiguracja polaczenia do konkretnej instancji baz danych
-        }
+        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        //{
+        //    optionsBuilder.UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=CarWorkshopDb;Trusted_Connection=True;"); //konfiguracja polaczenia do konkretnej instancji baz danych
+        //}
 
         protected override void OnModelCreating(ModelBuilder modelBuilder) //metoda ktora pozwala na definicje typow czy tez relacji pomiedzy naszymi encjami
         {
