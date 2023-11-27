@@ -263,3 +263,6 @@ E:\Programowanie\4.Nauka\dotNetCoreMVC\CarWorkshop.MVC\bin\Debug\net7.0\ru\Micro
 E:\Programowanie\4.Nauka\dotNetCoreMVC\CarWorkshop.MVC\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\Programowanie\4.Nauka\dotNetCoreMVC\CarWorkshop.MVC\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\Programowanie\4.Nauka\dotNetCoreMVC\CarWorkshop.MVC\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programowanie\4.Nauka\dotNetCoreMVC\CarWorkshop.MVC\bin\Debug\net7.0\MediatR.dll
+E:\Programowanie\4.Nauka\dotNetCoreMVC\CarWorkshop.MVC\bin\Debug\net7.0\MediatR.Contracts.dll
+E:\Programowanie\4.Nauka\dotNetCoreMVC\CarWorkshop.MVC\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll

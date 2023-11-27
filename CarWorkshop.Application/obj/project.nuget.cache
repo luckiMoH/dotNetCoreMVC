@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "urxF+pW4kg/LXSMejqpVyrifQ7dwKiVxSym5bsKkiiaf0GOo+VWHVI/I9VsyciLmqecQtPekvAg/fHbLvVFkwQ==",
+  "dgSpecHash": "ZkGPs4vVTe1BkNI3KXvnlJRfjjHKhXP88vrUZgvuoxaOEoqThrM63nm/kEh2vutWHFHzvQJNJ66qYz6CuLkKKw==",
   "success": true,
   "projectFilePath": "E:\\Programowanie\\4.Nauka\\dotNetCoreMVC\\CarWorkshop.Application\\CarWorkshop.Application.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,9 @@
     "C:\\Users\\X\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
     "C:\\Users\\X\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
     "C:\\Users\\X\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "C:\\Users\\X\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\X\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\X\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
     "C:\\Users\\X\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\X\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\X\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
